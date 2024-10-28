@@ -1,0 +1,12 @@
+  p {
+    color: red;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+ } 
+
+ h1 {
+    color: blue;
+    font-weight : bold;
+    font-style: italic;
+    background-color: tomato;
+ }
